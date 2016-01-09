@@ -1,5 +1,5 @@
 /*
-  First Example - Cylon e Arduino
+  First Example - Cylon and Arduino
   Actor: Yhan Christian Souza Silva - Date: 1/9/2016
 */
 
